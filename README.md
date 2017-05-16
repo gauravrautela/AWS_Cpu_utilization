@@ -6,4 +6,4 @@ The project primarily aims at simplyfying aws cost optimization strategy by prov
 
 ```
 ./report ap-southeast-1
-``
+```
